@@ -1,0 +1,20 @@
+{
+    "name": "it-poet/excel-keys-replacer",
+    "description": "A package to replace special labels in Excel files matching array keys.",
+    "require": {
+        "phpoffice/phpexcel": "1.8.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "it-poet",
+            "email": "grvaz@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ItPoet\\ExcelKeysReplacer\\": "src/"
+        }
+    }
+}
