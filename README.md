@@ -1,4 +1,4 @@
-A package to replace special labels in Excel files (both xls and xlsx) matching array keys.  
+Use Excel files as templates. This package will replace special labels in Excel files (both xls and xlsx) matching array keys.  
 Required: [phpoffice/phpexcel](https://github.com/PHPOffice/PHPExcel).  
 Install via composer:  
 composer require it-poet/excel-keys-replacer
