@@ -1,5 +1,7 @@
 A package to replace special labels in Excel files (both xls and xlsx) matching array keys.  
 Required: [phpoffice/phpexcel](https://github.com/PHPOffice/PHPExcel).  
+Install via composer:  
+composer require it-poet/excel-keys-replacer
 
 Example:  
 Insert anywhere in xls_keys.xls in any cells ${key1}$ and ${key2}$.  
